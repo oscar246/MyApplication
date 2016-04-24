@@ -7,9 +7,9 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
 
-    private String oscar;
+    private String oscar = null;
 
-    private String edgar;
+    private String edgar = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
